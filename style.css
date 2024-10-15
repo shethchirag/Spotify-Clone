@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.flex {
+}
+.left {
+  width: 25vw;
+}
+.right {
+  width: 75vw;
+}
+.border_style {
+  border: 2px solid red;
+  margin: 3px;
+}
+dl,
+ol,
+ul {
+  margin: 0 !important;
+  padding: 0;
+}
+ul li {
+  list-style: none;
+  width: 20px;
+  display: flex;
+  gap: 10px;
+}
+.bg_black {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+.home img {
+  filter: invert(1);
+}
+/* 19:34 youtube */
